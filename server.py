@@ -10,7 +10,7 @@ api_token = 'pub_26157f3b6e196ac47cfe1ced03eabd82b11ef'
 openai.api_type = "azure"
 openai.api_base = "https://dbhackathonai9-openai.openai.azure.com/"
 openai.api_version = "2022-12-01"
-openai.api_key = "6eff7dfe405a4c32b7e945764ad6623a"
+openai.api_key = "YOUR-API-KEY"
 
 
 app = Flask(__name__)
